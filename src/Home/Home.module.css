@@ -1,0 +1,19 @@
+.static
+{
+    color: cadetblue;
+}
+
+.running
+{
+    color: greenyellow;
+}
+
+.done
+{
+    color: brown;
+}
+
+.paused
+{
+    color: aquamarine;
+}

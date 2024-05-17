@@ -1,0 +1,36 @@
+.img
+{
+  max-width: 100px;
+  max-height: 100px;
+  margin: 5px;
+}
+
+.verde
+{
+  color: green;
+}
+
+.rojo
+{
+  color: red;
+}
+
+.azul
+{
+  color: blue;
+}
+
+.marron
+{
+  color: rgb(255, 64, 64);
+}
+
+.amarillo
+{
+  color: yellow;
+}
+
+.celeste
+{
+  color: skyblue;
+}
